@@ -40,7 +40,7 @@
     Iedereen heeft al niet zo'n best jaar, en dan ook nog eens geen vuurwerk...
   </p>
 
-  <h2>Geen vuurwerk? Laser op!</h2>
+  <h2>Geen vuurwerkshow maar een lichtshow!</h2>
   <div class="main-text">
     <p>
       Een oproep aan een alle theaters, discotheken, DJ's, evenement
@@ -58,6 +58,6 @@
   </div>
 
   <img src="laserop2020.png" alt="Laser op 2020 afbeelding" />
-  <footer>Pas natuurlijk wel op dat je niemand in de weg zit met je lichten ;-) - En zorg ervoor dat er geen menigten ontstaan - het moet wel veilig zijn!</footer>
+  <footer>Pas natuurlijk wel op dat je niemand in de weg zit met je lichten ;-) - En zorg ervoor dat er geen menigten ontstaan; het moet wel veilig zijn!</footer>
 
 </main>
