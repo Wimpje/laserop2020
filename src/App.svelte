@@ -43,7 +43,7 @@
   <h2>Geen vuurwerkshow maar een lichtshow!</h2>
   <div class="main-text">
     <p>
-      Een oproep aan een alle theaters, discotheken, DJ's, evenement
+      Een oproep aan alle theaters, discotheken, DJ's, evenement
       organisaties en enthousiastelingen!
     </p>
     <p>
